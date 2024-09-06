@@ -4,16 +4,14 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+## Spotify App
+> Enhanced function and features of Spotify Application with current queue playlist, podcast transcriptions, and enable real-time collaborative playlist management.
 
 ### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
+- Adding current queue playlist
+- Enhance podcast transcriptions
+- enable real-time collaborative playlist management
+
 
 ### _config.yml
 > Code block will look like this.
@@ -22,9 +20,8 @@ highlighter-theme: monokai //you can change your syntax color scheme.
 date_format: "%Y-%M-%D" //and date format.
 ```
 
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
+### Team Members
+![alt text](/public/img/1.png)
 #### Articles
 ![alt text](/public/img/screenshot-2.png)
 #### Page - Mobile
