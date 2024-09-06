@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Monos
+title: Spotify App
 email: ejjoo7994@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Themed by ejjoo
+  SP27-Pinky-2024 Fall CS4580
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ejjoo
