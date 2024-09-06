@@ -21,7 +21,7 @@ date_format: "%Y-%M-%D" //and date format.
 ```
 
 ### Team Members
-![alt text](/public/img/1.png)
+![alt text](/public/img/1.png.png)
 #### Articles
 ![alt text](/public/img/screenshot-2.png)
 #### Page - Mobile
