@@ -10,7 +10,7 @@ permalink: /about/
 ### Features
 - Adding current queue playlist
 - Enhance podcast transcriptions
-- enable real-time collaborative playlist management
+- Enable real-time collaborative playlist management
 
 
 ### _config.yml
