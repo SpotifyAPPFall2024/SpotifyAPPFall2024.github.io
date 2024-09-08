@@ -12,14 +12,6 @@ permalink: /about us/
 - Enhance podcast transcriptions
 - Enable real-time collaborative playlist management
 
-
-### _config.yml
-> Code block will look like this.
-```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
-```
-
 ### Team Members
 ![alt text](/public/img/1.png)
 #### Articles
@@ -28,3 +20,10 @@ date_format: "%Y-%M-%D" //and date format.
 ![alt text](/public/img/screenshot-m1.png)
 #### Page - Articles
 ![alt text](/public/img/screenshot-m2.png)
+
+### _config.yml
+> Code block will look like this.
+```yml
+highlighter-theme: monokai //you can change your syntax color scheme.
+date_format: "%Y-%M-%D" //and date format.
+```
