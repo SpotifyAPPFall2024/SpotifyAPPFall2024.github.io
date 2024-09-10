@@ -19,3 +19,6 @@ permalink: /about/
 - Jamia Jackson- jjack528@students.kennesaw.edu
 - Jordyn Jones- @students.kennesaw.edu
 - Amyr Murray- @students.kennesaw.edu
+
+### Github Site
+- https://github.com/SpotifyAPPFall2024/SpotifyAPPFall2024.github.io
