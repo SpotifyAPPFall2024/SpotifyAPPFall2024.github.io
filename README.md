@@ -14,16 +14,8 @@ permalink: /about/
 
 ### Team Members
 ![alt text](/public/img/1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
-
-### _config.yml
-> Code block will look like this.
-```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
-```
+### Contacts
+Raehyeong Lee- rlee109@students.kennesaw.edu
+Jamia Jackson- @students.kennesaw.edu
+Jordyn Jones- @students.kennesaw.edu
+Amyr Murray- @students.kennesaw.edu
