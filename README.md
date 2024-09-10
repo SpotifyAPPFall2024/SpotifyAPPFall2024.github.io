@@ -15,7 +15,7 @@ permalink: /about/
 ### Team Members
 ![alt text](/public/img/1.png)
 ### Contacts
-Raehyeong Lee- rlee109@students.kennesaw.edu
-Jamia Jackson- jjack528@students.kennesaw.edu
-Jordyn Jones- @students.kennesaw.edu
-Amyr Murray- @students.kennesaw.edu
+- Raehyeong Lee- rlee109@students.kennesaw.edu
+- Jamia Jackson- jjack528@students.kennesaw.edu
+- Jordyn Jones- @students.kennesaw.edu
+- Amyr Murray- @students.kennesaw.edu
