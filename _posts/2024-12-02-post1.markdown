@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Report
+title: Project Reports
 date: 2024-12-02 19:20:23 +0900
 category: sample
 ---
