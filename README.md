@@ -18,7 +18,7 @@ permalink: /about/
 - Raehyeong Lee- rlee109@students.kennesaw.edu
 - Jamia Jackson- jjack528@students.kennesaw.edu
 - Jordyn Jones- Jjone903@students.kennesaw.edu
-- Amyr Murray- @students.kennesaw.edu
+- Amyr Murray- amurra59@students.kennesaw.edu
 
 ### Github Site
 - https://github.com/SpotifyAPPFall2024/SpotifyAPPFall2024.github.io
