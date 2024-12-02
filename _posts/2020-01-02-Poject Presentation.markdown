@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Project Presentaion"
-date:   2020-01-02 19:31:29 +0900
+date:   2024-12-02 12:31:29 +0900
 categories: jekyll update
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2lij78JxmS4" 
