@@ -6,6 +6,8 @@ category: sample
 ---
 # post-sample
 > Hello! Hello
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,7 +16,7 @@ category: sample
     <title>PDF Viewer</title>
 </head>
 <body>
-    <h1>Embedded PDF Viewer</h1>
+    <h1>Project Report</h1>
     <iframe 
         src="https://spotifyAPPFall2024.github.io/spotifyAPPFall2024.github.io/SP-27 Pinky Spotify app Final report1.pdf" 
         width="1000px" 
