@@ -6,7 +6,7 @@ category: sample
 ---
 # post-sample
 > Hello! Hello
-<a href="_posts/SP-27 Pinky Spotify app Final report1.pdf" target="_blank">please click here.</a> <embed src="_posts/SP-27 Pinky Spotify app Final report1.pdf" width="1000px" height="800px" />
+<a href="SP-27 Pinky Spotify app Final report1.pdf" target="_blank">please click here.</a> <embed src="SP-27 Pinky Spotify app Final report1.pdf" width="1000px" height="800px" />
 This is code
 ```ruby
 print 'hello world'
