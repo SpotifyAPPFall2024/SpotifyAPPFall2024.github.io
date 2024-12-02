@@ -5,10 +5,8 @@ date: 2024-11-01 19:20:23 +0900
 category: sample
 ---
 # post-sample
-> Hello! Hello
+> Hello!
 
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,9 +14,9 @@ category: sample
     <title>PDF Viewer</title>
 </head>
 <body>
-    <h1>Project Report</h1>
+    <h1></h1>
     <iframe 
-        src="https://spotifyAPPFall2024.github.io/spotifyAPPFall2024.github.io/SP-27 Pinky Spotify app Final report1.pdf" 
+        src="SP-27 Pinky Spotify app Final report1.pdf" 
         width="1000px" 
         height="800px">
     </iframe>
