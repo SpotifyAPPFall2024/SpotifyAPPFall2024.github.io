@@ -12,5 +12,5 @@ categories: jekyll update
 </iframe>
 
 #Presentation Slides
-<iframe src="https://drive.google.com/file/d/d/1cLwQDYL9cbnm9-LmFJoGzgZZhKuac3ps/preview" width="1000" height="800"></iframe>
+<iframe src="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://drive.usercontent.google.com/download?id=1cLwQDYL9cbnm9-LmFJoGzgZZhKuac3ps&authuser=0&acrobatPromotionSource=GoogleDriveNativeView" width="1000" height="800"></iframe>
 
