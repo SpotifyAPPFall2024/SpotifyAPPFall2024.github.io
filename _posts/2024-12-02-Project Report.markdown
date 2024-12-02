@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Project Report
 date: 2024-12-02 12:20:23 +0900
 category: sample
