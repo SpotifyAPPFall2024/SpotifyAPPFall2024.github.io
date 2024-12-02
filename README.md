@@ -9,8 +9,9 @@ permalink: /about/
 
 ### Features
 - Adding current queue playlist
-- Enhance podcast transcriptions
-- -Enable real-time collaborative playlist management-
+- Enable real-time collaborative playlist management
+- ~~Enhance podcast transcriptions~~
+
 
 ### Team Members
 ![alt text](/public/img/1.png)
