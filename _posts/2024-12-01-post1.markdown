@@ -6,7 +6,8 @@ category: sample
 ---
 # post-sample
 > Hello! Hello
-<a href="_posts/SP-27 Pinky Spotify app Final report1.pdf" target="_blank">PDF.</a>
+
+<a href="SP-27 Pinky Spotify app Final report1.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 This is code
 ```ruby
 print 'hello world'
