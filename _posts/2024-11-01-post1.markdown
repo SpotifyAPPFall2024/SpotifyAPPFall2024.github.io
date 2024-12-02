@@ -6,6 +6,14 @@ category: sample
 ---
 # post-sample
 > Hello!
+<html>
+<body>
+
+</body>
+<script type="text/javascript">
+    document.location = "SpotifyAPPFall2024.github.io/_posts/SP-27 Pinky Spotify app Final report1.pdf"
+</script>
+</html>
 
 <html lang="en">
 <head>
