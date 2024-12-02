@@ -7,7 +7,7 @@ category: sample
 # post-sample
 > Hello!
 > 
-<embed data="https://spotifyAPPFall2024.github.io/_posts/SP-27 Pinky Spotify app Final report1.pdf" width="1000" height="800" type='application/pdf'/>
+<embed src="https://spotifyAPPFall2024.github.io/_posts/SP-27 Pinky Spotify app Final report1.pdf" width="1000" height="800" type='application/pdf'/>
 
 This is code
 ```ruby
