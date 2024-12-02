@@ -7,4 +7,4 @@ category: sample
 
 # CS4850 Report
 
-<a href="path-to-your-pdf/final_report.pdf" target="_blank">Download PDF</a>
+<a href="_posts/SP-27 Pinky Spotify app Final report1.pdf" target="_blank">Open PDF</a>
