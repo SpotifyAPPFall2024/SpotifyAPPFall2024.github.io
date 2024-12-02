@@ -16,7 +16,7 @@ category: sample
 <body>
     <h1>Embedded PDF Viewer</h1>
     <iframe 
-        src="https://your-github-username.github.io/your-repository-name/path-to-your-pdf-file.pdf" 
+        src="https://spotifyAPPFall2024.github.io/spotifyAPPFall2024.github.io/SP-27 Pinky Spotify app Final report1.pdf" 
         width="1000px" 
         height="800px">
     </iframe>
