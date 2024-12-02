@@ -7,8 +7,6 @@ category: sample
 
 # CS4850 Report
 
-For our class, we were tasked to create a report which details our development process. This can be viewed below.
-
 {% for _posts in site.static_files %}
 
 {% if report.path contains "SP-27 Pinky Spotify app Final report1.pdf" %}
