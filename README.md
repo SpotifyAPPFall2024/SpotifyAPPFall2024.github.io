@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Spotify App
-> Enhanced function and features of Spotify Application with current queue playlist, podcast transcriptions, and enable real-time collaborative playlist management.
+> Enhanced function and features of Spotify Application with various features that actual spotify app doesn't have.
 
 ### Features
 - Adding current queue playlist
