@@ -9,9 +9,6 @@ category: sample
 >
 # CS4850 Report
 
-<a href="SP-27 Pinky Spotify app Final report1.pdf" target="_blank">Open PDF</a>
+<iframe src="https://drive.google.com/file/d/1TH9PHhbIsWsJoXg2FXUnNLXYAaWkl-yS/preview" width="600" height="400"></iframe>
 
-This is code
-```ruby
-print 'hello world'
-```
+https://docs.google.com/document/d/1TH9PHhbIsWsJoXg2FXUnNLXYAaWkl-yS/edit?usp=drive_link&ouid=109551758235216220757&rtpof=true&sd=true
