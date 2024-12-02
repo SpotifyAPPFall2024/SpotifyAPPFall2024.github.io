@@ -11,6 +11,3 @@ categories: jekyll update
         allowfullscreen>
 </iframe>
 
-# Presentation Slides
-<iframe src="https://drive.google.com/file/d/1viV4-4KP5qriuWX64YatiDKlkXFMLVwD/preview" width="1000" height="800"></iframe>
-
