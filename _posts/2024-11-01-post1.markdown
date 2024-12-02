@@ -16,7 +16,7 @@ category: sample
 <body>
     <h1></h1>
     <iframe 
-        src="SP-27 Pinky Spotify app Final report1.pdf" 
+        src="_post/SP-27 Pinky Spotify app Final report1.pdf" 
         width="1000px" 
         height="800px">
     </iframe>
