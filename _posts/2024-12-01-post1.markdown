@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Project Report
-date: 2024-11-24 19:20:23 +0900
+date: 2024-12-01 19:20:23 +0900
 category: sample
 ---
 # post-sample
 > Hello! Hello
-
+<embed src="_posts/SP-27 Pinky Spotify app Final report1.pdf" type="application/pdf"/>
 This is code
 ```ruby
 print 'hello world'
