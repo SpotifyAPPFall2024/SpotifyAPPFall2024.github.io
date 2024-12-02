@@ -21,4 +21,4 @@ permalink: /about/
 - Amyr Murray- amurra59@students.kennesaw.edu
 
 ### Github Site
-- https://github.com/SpotifyAPPFall2024/Spotifyapp/tree/prototype
+- https://github.com/SpotifyAPPFall2024/Spotifyapp/tree/final
