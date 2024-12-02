@@ -6,6 +6,10 @@ category: sample
 ---
 # post-sample
 > Hello!
+>
+# CS4850 Report
+
+<a href="SP-27 Pinky Spotify app Final report1.pdf" target="_blank">Open PDF</a>
 
 This is code
 ```ruby
