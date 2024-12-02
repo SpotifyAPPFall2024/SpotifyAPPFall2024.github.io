@@ -1,21 +1,10 @@
 ---
-layout: Page
+layout: Post
 title: Project Report
 date: 2024-12-02 12:20:23 +0900
-permalink: /report/
 category: sample
-nav_order: 4
 ---
 
 # CS4850 Report
 
-{% for _posts in site.static_files %}
-
-{% if report.path contains "SP-27 Pinky Spotify app Final report1.pdf" %}
-
-<object data="{{site.url}}{{site.baseurl}}{{report.path}}" width="850" height="1100" type='application/pdf'/>
-</object>
-
-{% endif %}
-
-{% endfor %}
+<a href="path-to-your-pdf/final_report.pdf" target="_blank">Download PDF</a>
